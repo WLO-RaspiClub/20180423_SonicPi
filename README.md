@@ -2,6 +2,7 @@
 ## 「WLOラズパイ倶楽部　Sonic Piで音をプログラミング！」
 
 ## Peatix イベント申し込みページ
+https://180423raspi.peatix.com/view
 
 ## 詳細
 WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った 趣味の電子工作に
